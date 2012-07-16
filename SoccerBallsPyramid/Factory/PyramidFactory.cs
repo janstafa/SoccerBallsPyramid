@@ -64,9 +64,7 @@ namespace SoccerBallsPyramid.Factory
 
             var smallPyramidInsideBallsHigh = Geometric.CalculateTetrahedronHigh(soccerBall.Diameter);
 
-            var highOfFirstAndSecondPyramidLevel = smallPyramidInsideBallsHigh + soccerBall.Diameter;
-
-            var numberOfPyramidLevels = (pyramidHighInCm / highOfFirstAndSecondPyramidLevel * 2);
+            var numberOfPyramidLevels = ((pyramidHighInCm - soccerBall.Diameter) / smallPyramidInsideBallsHigh) * 2;
 
             pyramid.NumberOfUsedBalls = GetTotalNumberOfBallsUsedInConstruction(numberOfPyramidLevels);
 
