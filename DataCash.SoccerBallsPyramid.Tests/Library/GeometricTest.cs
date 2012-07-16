@@ -19,5 +19,19 @@ namespace DataCash.SoccerBallsPyramid.Tests.Library
             Assert.AreEqual(224.00583697752168d, calculateLengthOfSideOfRegularTetrahedron, "Heigh is not the same!");
         }
 
+
+        [Test]
+        public void CalculatePyramidSide()
+        {
+            //asign
+            const double ballDiameter = 22; //in cm
+
+            //action
+            var calculatedTetrahedronHigh = Geometric.CalculateTetrahedronHigh(ballDiameter);
+
+            //assert
+            Assert.AreEqual(17.962924780409971d, calculatedTetrahedronHigh, "Length is not the same!");
+        }
+
     }
 }

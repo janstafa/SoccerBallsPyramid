@@ -62,11 +62,13 @@ namespace DataCash.SoccerBallsPyramid.Factory
 
             var pyramidHighInCm = Conversion.FootToCentimeters(pyramid.High);
 
-            var sideLength = Geometric.CalculateLengthOfSideOfRegularTetrahedron(pyramidHighInCm);
+            var smallPyramidInsideBallsHigh = Geometric.CalculateTetrahedronHigh(soccerBall.Diameter);
 
-            var startBallNumber = GetStartBallNumber(sideLength, soccerBall.Diameter);
+            var highOfFirstAndSecondPyramidLevel = smallPyramidInsideBallsHigh + soccerBall.Diameter;
 
-            pyramid.NumberOfUsedBalls = GetTotalNumberOfBallsUsedInConstruction(startBallNumber);
+            var numberOfPyramidLevels = (pyramidHighInCm / highOfFirstAndSecondPyramidLevel * 2);
+
+            pyramid.NumberOfUsedBalls = GetTotalNumberOfBallsUsedInConstruction(numberOfPyramidLevels);
 
             return pyramid;
         }
