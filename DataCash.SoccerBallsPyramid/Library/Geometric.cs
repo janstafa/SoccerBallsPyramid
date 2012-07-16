@@ -13,5 +13,11 @@ namespace DataCash.SoccerBallsPyramid.Library
         {
             return regularTetrahedronHigh / (Math.Sqrt(6) / 3);
         }
+
+
+        internal static double CalculateTetrahedronHigh(double regularTetrahedronSideLength)
+        {
+            return (Math.Sqrt(6) / 3) * regularTetrahedronSideLength;
+        }
     }
 }
