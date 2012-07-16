@@ -1,0 +1,7 @@
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid\bin\Debug\SoccerBallsPyramid.exe
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid\bin\Debug\SoccerBallsPyramid.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid\obj\x86\Debug\SoccerBallsPyramid.exe
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid\obj\x86\Debug\SoccerBallsPyramid.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\SoccerBallsPyramid\SoccerBallsPyramid\obj\x86\Debug\SoccerBallsPyramid.exe
+C:\Users\Simon\Workspace\CSharp\Projects\SoccerBallsPyramid\SoccerBallsPyramid\obj\x86\Debug\SoccerBallsPyramid.pdb

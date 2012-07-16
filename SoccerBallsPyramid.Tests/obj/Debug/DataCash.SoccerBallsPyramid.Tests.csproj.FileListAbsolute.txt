@@ -1,0 +1,8 @@
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\bin\Debug\DataCash.SoccerBallsPyramid.Tests.dll
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\bin\Debug\DataCash.SoccerBallsPyramid.Tests.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\bin\Debug\DataCash.SoccerBallsPyramid.exe
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\bin\Debug\DataCash.SoccerBallsPyramid.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\obj\Debug\DataCash.SoccerBallsPyramid.Tests.dll
+C:\Users\Simon\Workspace\CSharp\Projects\DataCash.SoccerBallsPyramid\DataCash.SoccerBallsPyramid.Tests\obj\Debug\DataCash.SoccerBallsPyramid.Tests.pdb
