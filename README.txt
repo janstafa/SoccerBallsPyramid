@@ -1,0 +1,1 @@
+The console application which counts the number of soccer balls it would take to build a 4 sided pyramid of soccer balls 6 foot high. The diameter of each ball is 22cm.
