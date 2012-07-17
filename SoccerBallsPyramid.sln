@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerBallsPyramid", "DataCash.SoccerBallsPyramid\SoccerBallsPyramid.csproj", "{8011F3FE-AC26-42A9-BE84-A2822EF270FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerBallsPyramid", "SoccerBallsPyramid\SoccerBallsPyramid.csproj", "{8011F3FE-AC26-42A9-BE84-A2822EF270FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerBallsPyramid.Tests", "DataCash.SoccerBallsPyramid.Tests\SoccerBallsPyramid.Tests.csproj", "{7950E5E8-2D55-4218-91FF-DCD3FD328B02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerBallsPyramid.Tests", "SoccerBallsPyramid.Tests\SoccerBallsPyramid.Tests.csproj", "{7950E5E8-2D55-4218-91FF-DCD3FD328B02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

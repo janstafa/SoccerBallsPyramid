@@ -47,7 +47,7 @@
     <Compile Include="Factory\PyramidFactoryTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataCash.SoccerBallsPyramid\SoccerBallsPyramid.csproj">
+    <ProjectReference Include="..\SoccerBallsPyramid\SoccerBallsPyramid.csproj">
       <Project>{8011F3FE-AC26-42A9-BE84-A2822EF270FD}</Project>
       <Name>SoccerBallsPyramid</Name>
     </ProjectReference>
