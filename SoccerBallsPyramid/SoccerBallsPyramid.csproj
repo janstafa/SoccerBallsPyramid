@@ -39,7 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Library\Conversion.cs" />
-    <Compile Include="Library\Geometric.cs" />
+    <Compile Include="Library\Geometrics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Model\Pyramid.cs" />

@@ -8,20 +8,6 @@ namespace SoccerBallsPyramid.Tests.Factory
     public class PyramidFactoryTest
     {
         [Test]
-        public void NumberOfUsedBallsToBuildAFloor()
-        {
-            // asign
-            const double startBallsNumber = 10;
-
-            // action
-            var numberOfUsedBallsToBuildFloor = PyramidFactory.GetNumberOfUsedBallsToBuildFloor(startBallsNumber);
-
-            // assert
-            Assert.AreEqual(55, numberOfUsedBallsToBuildFloor, "Number of used balls is not correct!");
-        }
-
-
-        [Test]
         public void TestTotalNumberOfBallsUsedToConstruction()
         {
             // asign
@@ -46,7 +32,7 @@ namespace SoccerBallsPyramid.Tests.Factory
             var pyramid = PyramidFactory.Build(pyramidHigh, soccerBall);
 
             // assert
-            Assert.AreEqual(165, pyramid.NumberOfUsedBalls, "Number of used balls is not correct!");
+            Assert.AreEqual(220, pyramid.NumberOfUsedBalls, "Number of used balls is not correct!");
         }
     }
 }
