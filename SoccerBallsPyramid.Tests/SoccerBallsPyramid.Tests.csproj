@@ -40,7 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Library\ConversionTest.cs" />
-    <Compile Include="Library\GeometricTest.cs" />
+    <Compile Include="Library\GeometricsTest.cs" />
     <Compile Include="Model\PyramidTest.cs" />
     <Compile Include="Model\SoccerBallTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

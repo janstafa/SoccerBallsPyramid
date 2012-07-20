@@ -2,7 +2,7 @@
 
 namespace SoccerBallsPyramid.Library
 {
-    internal static class Geometric
+    internal static class Geometrics
     {
         /// <summary>
         /// Calculates length of A side of a regular tetrahedron.
@@ -13,7 +13,6 @@ namespace SoccerBallsPyramid.Library
         {
             return regularTetrahedronHigh / (Math.Sqrt(6) / 3);
         }
-
 
         internal static double CalculateTetrahedronHigh(double regularTetrahedronSideLength)
         {
